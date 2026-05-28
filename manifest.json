@@ -1,8 +1,9 @@
 {
   "name": "Relationship Compatibility",
   "short_name": "relationship",
-  "start_url": "/",
+  "start_url": "/relationship-compatibility/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#6366f1"
+  "theme_color": "#6366f1",
+  "scope": "/relationship-compatibility/"
 }
